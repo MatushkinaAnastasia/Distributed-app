@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJkkR6QOlAFxz11b9QqYlqDQlYWiwbRKBOK9y2/TXi5q1dx2Y0DYsyBwLdfiWnYeRn8tULRQtKfO+OkXmb1urA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasya\\Desktop\\ТРРП\\лр2\\SocketMQ\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

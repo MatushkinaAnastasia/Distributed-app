@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IS4kWrekW/N5Mix7HTwb5pyA1jZ/r2YLhakxVUm0Opbhg2prLjrE2CKmOyfgRIyYKvsGF8tpkftYrIO+d6wcVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasya\\Desktop\\ТРРП\\лр2\\SocketMQ\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gs52l20LPqPcMNGVX0lohwx+dmbfIith+lAfCaUhLGpqGok8f7AZiPUfXf3gxSmGJ3g4O8K//j9Q4ZMYUB5Rfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasya\\Desktop\\ТРРП\\лр2\\SocketMQ\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.1\\stub.system.data.sqlite.core.netstandard.1.0.113.1.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.6\\system.data.sqlite.core.1.0.113.6.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\nasya\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
